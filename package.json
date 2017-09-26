@@ -1,6 +1,6 @@
 {
   "name": "@cluejs/imagemin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper imagemin with imagemin-{mozjpeg,pngquant,svgo} plugins by default",
   "main": "index.js",
   "devDependencies": {},

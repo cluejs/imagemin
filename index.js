@@ -16,6 +16,7 @@ module.exports = (buf) => {
                     {removeViewBox: false}
                 ]
             })
-        ]
+        ],
+        verbose: true
     })
 };
