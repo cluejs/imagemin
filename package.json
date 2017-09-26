@@ -1,0 +1,19 @@
+{
+  "name": "@cluejs/imagemin",
+  "version": "0.1.0",
+  "description": "Wrapper imagemin with imagemin-{mozjpeg,pngquant,svgo} plugins by default",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^5.3.1",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "imagemin-svgo": "^5.2.2"
+  }
+}
